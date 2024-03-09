@@ -1,0 +1,13 @@
+section#indicações{
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+    text-align: center;
+    padding: px;
+}
+nav{
+    background-color: red;
+}
+footer{
+    background-color: red;
+    color: rgb(31, 31, 106);
+}
